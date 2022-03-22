@@ -1,10 +1,32 @@
+@import '~swiper/swiper.scss';
+
 body {
    margin: 0;
    display: flex;
    flex-direction: column;
    min-height: 100vh;
+   overflow: hidden;
 
-   .main {
+   #app {
       flex-grow: 1;
+      display: flex;
+      flex-grow: 1;
+   }
+}
+
+.center {
+   height: 80vh;
+   width: 100vw;
+   margin: auto;
+
+   .main-slide {
+      height: 80vh;
+      width: 100vw;
+   }
+
+   img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
    }
 }
