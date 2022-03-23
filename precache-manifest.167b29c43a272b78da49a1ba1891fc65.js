@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/swipe-tester/_config.yml"
   },
   {
-    "revision": "3090ef1e34eae4fc8232",
-    "url": "/swipe-tester/css/app.4ae5e7de.css"
+    "revision": "59e94293de066bbe4a9e",
+    "url": "/swipe-tester/css/app.cb404ef5.css"
   },
   {
     "revision": "4fc5b7527f28eef973e8b5b2426915ba",
@@ -36,16 +36,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/swipe-tester/img/depositphotos_8958912-stock-photo-bales-of-hay.af099ed0.jpg"
   },
   {
-    "revision": "3a29a5263fb10a0a44088b851b3829df",
+    "revision": "761d962c0f79ab1c3f8a1c3f01d55119",
     "url": "/swipe-tester/index.html"
   },
   {
-    "revision": "3090ef1e34eae4fc8232",
-    "url": "/swipe-tester/js/app.f2895ec7.js"
+    "revision": "59e94293de066bbe4a9e",
+    "url": "/swipe-tester/js/app.4dd0c8b6.js"
   },
   {
-    "revision": "fee9d4bfcd220e09c490",
-    "url": "/swipe-tester/js/chunk-vendors.af4f09f0.js"
+    "revision": "84a922544a221e6d6862",
+    "url": "/swipe-tester/js/chunk-vendors.d74ccf80.js"
   },
   {
     "revision": "ea65296056ca648ec9964321c14ef5f2",
