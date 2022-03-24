@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/swipe-tester/_config.yml"
   },
   {
-    "revision": "d7a0fc8eeac10d199e98",
+    "revision": "3ca1829c817d788c4aaf",
     "url": "/swipe-tester/css/app.42b2efd8.css"
   },
   {
@@ -100,12 +100,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/swipe-tester/img/023.b1ba1ae6.jpg"
   },
   {
-    "revision": "3996151e4774384955cfe0da5e6ce2ab",
+    "revision": "12fcd4f807674d38ae40d5c18142cc8a",
     "url": "/swipe-tester/index.html"
   },
   {
-    "revision": "d7a0fc8eeac10d199e98",
-    "url": "/swipe-tester/js/app.89be5251.js"
+    "revision": "3ca1829c817d788c4aaf",
+    "url": "/swipe-tester/js/app.5c77414a.js"
   },
   {
     "revision": "aa627226f962793c87fe",
