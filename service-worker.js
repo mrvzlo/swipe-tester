@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/swipe-tester/precache-manifest.a10ef8fbc4c422fdf8f93499930fb4d1.js"
+  "/swipe-tester/precache-manifest.a1c9266f561f123bb10e76adc357d5d2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "swipe-tester"});
